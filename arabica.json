@@ -1,23 +1,31 @@
 [
     {
-        "foto": "images/produk/product_capuchino.jpg",
-        "nama": "Cappucino Mantap",
-        "size": "500 Gram",
-        "harga": "200.000",
+        "foto": "images/produk/product_kopi_susu.jpg",
+        "nama": "Kopi Susu WEnak",
+        "size": "150 Gram",
+        "harga": "150.000",
         "link": "https://tokopedia.com/kopiiawodia"
     },
     {
-        "foto": "images/produk/product_espresso.jpg",
-        "nama": "Espresso Ennak",
+        "foto": "images/produk/product_iceamericano.jpg",
+        "nama": "Ice Americano Ennak",
         "size": "100 Gram",
         "harga": "100.000",
         "link": "https://tokopedia.com/kopiiawodia"
     },
     {
-        "foto": "images/produk/product_latte.jpg",
-        "nama": "Latte",
+        "foto": "images/produk/product_icemocha.jpg",
+        "nama": "Ice Mocha Mantap",
+        "size": "500 Gram",
+        "harga": "200.000",
+        "link": "https://tokopedia.com/kopiiawodia"
+    },
+    {
+        "foto": "images/produk/product_kopi_susu.jpg",
+        "nama": "Kopi Kuy",
         "size": "150 Gram",
         "harga": "150.000",
         "link": "https://tokopedia.com/kopiiawodia"
     }
+
 ]
